@@ -1,0 +1,13 @@
+h1 {
+  color: green;
+}
+
+p {
+  color: blue;
+}
+
+body {
+  background-color: lightblue;
+  height: 600px;
+  width: 1440px;
+}
